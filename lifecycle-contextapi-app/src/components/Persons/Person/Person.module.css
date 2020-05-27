@@ -1,0 +1,9 @@
+.Personstyle {
+  border: 2px outset #ccc;
+  width: 40%;
+  display: block;
+  padding: 8px;
+  text-align: center;
+  margin-left: 30%;
+  margin-bottom: 5px;
+}
